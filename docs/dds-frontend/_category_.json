@@ -1,0 +1,8 @@
+{
+  "label": "DDS Frontend",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Proceso de armado del frontend de la apliación Pymes"
+  }
+}
